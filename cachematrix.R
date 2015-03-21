@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This thing possibly solves the Programming Assignment, making a matrix able to cache its inverse
+
+
 
 ##This function makes a matrix capable of storing its inverse, together with methods 
 
